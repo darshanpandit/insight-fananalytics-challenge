@@ -1,3 +1,8 @@
+# Requirements:
+python3.x
+Please refer to code in src folder for code.
+Linear time Implementations for all the features.
+I wasn't sure about the Time-period feature implementation. Currently it is allows consecutive time-periods to be considered. This leads to consecutive time periods in the top-K list. This is not desirable. 
 # Table of Contents
 1. [Challenge Summary](README.md#challenge-summary)
 2. [Details of Implementation](README.md#details-of-implementation)
